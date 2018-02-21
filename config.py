@@ -1,0 +1,5 @@
+MONGO_URL='localhost'
+MONGO_DB='WEXIN_ARTICLE'
+MONGO_TABLE='ARTICLE_fuben'
+
+KEYWORD="风景"
